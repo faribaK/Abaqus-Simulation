@@ -1,0 +1,22 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB solidsphereFine_twist_rot-Z_p05
+Abaqus 3DEXPERIENCE R2017x
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 5 tokens from Flexnet server linlic.engr.oregonstate.edu.
+<173 out of 203 licenses remain available>.
+Begin Analysis Input File Processor
+3/23/2019 12:31:48 AM
+Run pre.exe
+3/23/2019 12:32:15 AM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+3/23/2019 12:32:16 AM
+Run standard.exe
+3/23/2019 12:47:12 AM
+End Abaqus/Standard Analysis
+Begin MFS->SFS and SIM cleanup
+3/23/2019 12:47:15 AM
+Run SMASimUtility.exe
+3/23/2019 12:47:24 AM
+End MFS->SFS and SIM cleanup
+Abaqus JOB solidsphereFine_twist_rot-Z_p05 COMPLETED

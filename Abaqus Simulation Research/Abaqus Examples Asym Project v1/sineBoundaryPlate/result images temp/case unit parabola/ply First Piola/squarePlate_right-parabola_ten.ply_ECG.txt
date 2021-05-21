@@ -1,0 +1,14 @@
+ECG_Graph
+ECG_Graph_nsing_norbit_nelements 0 0 4
+ECG_NodeList
+ECG_NodeList_Size_nelements 0 5
+Graph_EdgeList
+Graph_EdgeList_Size_nelements 0 3
+cur_ecgnode_index 0
+cur_ecgedge_index 0
+SingularityList
+SingularityList_Size_nelements 0 3
+PeriodicOrbitList
+PeriodicOrbitList_Size_nelements 0 2
+TrajectoryList
+TrajectoryList_Size_nelements 0 2

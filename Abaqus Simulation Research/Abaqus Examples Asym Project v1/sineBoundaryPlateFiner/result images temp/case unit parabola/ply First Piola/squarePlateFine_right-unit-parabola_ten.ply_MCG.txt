@@ -1,0 +1,8 @@
+MCG_Graph
+MCG_Graph_nsing_norbit_nelements 0 0 4
+MCG_NodeList
+MCG_NodeList_Size_nelements 0 8
+Graph_EdgeList
+Graph_EdgeList_Size_nelements 0 4
+cur_mcgnode_index 0
+cur_mcgedge_index 0
